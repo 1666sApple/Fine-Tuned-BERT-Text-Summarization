@@ -1,7 +1,4 @@
 pandas 
-numpy
-matplotlib
-jupyter
 datasets
 transformers[torch]
 torch
