@@ -31,6 +31,7 @@ text_summarizer/
 │   ├── setup.py
 ├── requirements.txt
 ├── main.py
+├── run_datasets.py
 └── README.md
 ```
 
@@ -43,6 +44,7 @@ text_summarizer/
 - **training/**: Contains code for training the model.
 - **summarization/**: Contains code for generating summaries.
 - **utils/**: Contains utility scripts, such as setup scripts.
+- **run_datasets.py**: Script to download and prepare the dataset.
 - **main.py**: Main script to run the training and summarization process.
 - **requirements.txt**: List of required Python packages.
 
